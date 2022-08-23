@@ -1,6 +1,5 @@
 ### Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonjun6715&layout=compact&theme=tokyonight)
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
 <!--
 wonjun6715/wonjun6715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
