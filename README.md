@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonjun6715&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonjun6715&layout=compact&theme=algolia)
 <!--
 wonjun6715/wonjun6715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
